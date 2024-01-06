@@ -121,3 +121,23 @@ h1, p{
 .box-text{
     padding: 10px;
 }
+
+/* Quote Style */
+.quotecontainer{
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-style: italic;
+    font-size: 36px;
+}
+.quote{
+    width: 900px;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.quote-name{
+    text-align: end;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+}
